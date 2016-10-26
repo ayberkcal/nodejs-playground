@@ -85,4 +85,7 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.idea/
+.idea/*
+.idea/jsLibraryMappings.xml
+.idea/nodejs-playground.iml
+.idea/workspace.xml
